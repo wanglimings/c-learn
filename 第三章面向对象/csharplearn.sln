@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "封装", "封装.csproj", "{43DFE2D1-01F6-4D09-A02C-87C496E17311}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "第五章", "第五章", "{0817DEFF-759F-4FF4-817A-6CAB4C08DA71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "继承", "..\继承\继承.csproj", "{A2E4D155-DCBA-4CEB-ACFE-363C821602A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43DFE2D1-01F6-4D09-A02C-87C496E17311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43DFE2D1-01F6-4D09-A02C-87C496E17311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43DFE2D1-01F6-4D09-A02C-87C496E17311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43DFE2D1-01F6-4D09-A02C-87C496E17311}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2E4D155-DCBA-4CEB-ACFE-363C821602A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E4D155-DCBA-4CEB-ACFE-363C821602A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E4D155-DCBA-4CEB-ACFE-363C821602A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E4D155-DCBA-4CEB-ACFE-363C821602A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{43DFE2D1-01F6-4D09-A02C-87C496E17311} = {0817DEFF-759F-4FF4-817A-6CAB4C08DA71}
+		{A2E4D155-DCBA-4CEB-ACFE-363C821602A2} = {0817DEFF-759F-4FF4-817A-6CAB4C08DA71}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1ECC770E-F865-4C4F-888B-332852C63CDF}
+	EndGlobalSection
+EndGlobal
