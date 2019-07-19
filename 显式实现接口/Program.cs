@@ -12,10 +12,10 @@ namespace 显式实现接口
     {
         static void Main(string[] args)
         {
-            Speaker person=new Speaker();
-            IChineseGreeting iChineseGreeting = (IChineseGreeting)person;
+            Speaker speaker=new Speaker();
+            IChineseGreeting iChineseGreeting = (IChineseGreeting)speaker;
             iChineseGreeting.Greeting();
-            IAmericanGreeting iAmericanGreeting = (IAmericanGreeting) person;
+            IAmericanGreeting iAmericanGreeting = (IAmericanGreeting) speaker;
             iAmericanGreeting.Greeting();
             Console.Read();
 
