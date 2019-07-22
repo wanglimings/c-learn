@@ -21,7 +21,7 @@ namespace 委托链
             dtchain += dtinstance;
             //调用委托链
             dtchain();
-            Console.Read();
+            Console.Read(); 
 
         }
 
