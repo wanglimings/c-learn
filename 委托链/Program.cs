@@ -8,10 +8,11 @@ namespace 委托链
 {
     class Program
     {
+         DelegateText dtstatic = new DelegateText(Program.Method1);
         static void Main(string[] args)
         {
             //用静态方法实例化委托
-            DelegateText dtstatic= new DelegateText(Program.Method1);
+           
             //
             DelegateText dtinstance=new DelegateText(new Program().Method2);
             //定义一个委托对象，初始化为空，即不代表任何方法

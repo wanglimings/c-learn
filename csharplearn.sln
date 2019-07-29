@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28922.388
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "第五章", "第五章", "{74566229-8AC2-47E2-9FC8-CCD6E96D6223}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "e第五章", "e第五章", "{74566229-8AC2-47E2-9FC8-CCD6E96D6223}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "封装", "第五章\封装\封装.csproj", "{0B46B9AB-C414-4EC9-BCCE-41AF1A391127}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "第六章", "第六章", "{6587E827-B5FA-4087-81A7-C9A90E44BDA4}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "f第六章", "f第六章", "{6587E827-B5FA-4087-81A7-C9A90E44BDA4}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "继承", "第五章\继承\继承.csproj", "{BB1BD47C-64E4-49C4-BFC6-AD1C23F05155}"
 EndProject
@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "继承接口", "继承接�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "显式实现接口", "显式实现接口\显式实现接口.csproj", "{A483E307-2127-4C84-B9A9-BE86895DA16C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "第七章", "第七章", "{03A34D96-70E8-48F4-BA74-BDD6696CBFA5}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "g第七章", "g第七章", "{03A34D96-70E8-48F4-BA74-BDD6696CBFA5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "委托", "委托\委托.csproj", "{0D79F911-81BA-430D-B8A8-B2F8768AD474}"
 EndProject
@@ -25,13 +25,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "为什么引入委托", "�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "委托链", "委托链\委托链.csproj", "{8766372D-A37E-4964-BD1B-2BF7C027624C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "第九章事件", "第九章事件", "{4D898EA2-74AF-4878-9DC8-657841BC40D3}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "i第九章事件", "i第九章事件", "{4D898EA2-74AF-4878-9DC8-657841BC40D3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "订阅和取消事件", "订阅和取消事件\订阅和取消事件.csproj", "{D421E097-D2BA-4688-8152-7EC34789D54B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "扩展EventArgs类", "扩展EventArgs类\扩展EventArgs类.csproj", "{7B71FADD-5FA4-4447-98E0-13A785A80DA1}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "第十章类型", "第十章类型", "{E24E19B1-396B-4FF9-94A8-8DE7ABBCE55B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "j第十章类型", "j第十章类型", "{E24E19B1-396B-4FF9-94A8-8DE7ABBCE55B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "值类型和引用类型", "值类型和引用类型\值类型和引用类型.csproj", "{693EDC26-C4B7-4598-95D2-1FE722AB589F}"
 EndProject
@@ -45,7 +45,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "引用类型参数按引用
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "值类型参数按引用传递", "值类型参数按引用传递\值类型参数按引用传递.csproj", "{3CDE91AD-5FEC-45CC-BA85-4E2DC037AE6D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "第十一章泛型", "第十一章泛型", "{65FCCAF5-4A3F-4676-BB69-56752C5C7E53}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "k第十一章泛型", "k第十一章泛型", "{65FCCAF5-4A3F-4676-BB69-56752C5C7E53}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "泛型", "泛型\泛型.csproj", "{490E8C26-C683-4C6E-A83C-2AA4D1FDA831}"
 EndProject
@@ -58,6 +58,24 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "类型参数的推断", "类型参数的推断\类型参数的推断.csproj", "{050BFA7A-7DC5-45EA-9F04-EBC424EE7175}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "泛型类型参数约束", "泛型类型参数约束\泛型类型参数约束.csproj", "{3FB9D117-7032-479D-9B51-BD3610C07747}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "l可空类型匿名方法迭代器", "l可空类型匿名方法迭代器", "{206E0AC5-F3BC-4C21-B7D1-0821933A5490}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "可空类型", "可空类型\可空类型.csproj", "{E0BE35F4-6726-41EB-AFE3-4A08A970ED67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "空合并操作符", "空合并操作符\空合并操作符.csproj", "{82DCD651-591C-4055-A1F6-32921BB04140}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "匿名方法", "匿名方法\匿名方法.csproj", "{05749FA9-6D08-48AD-8300-8690B8627490}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "变量捕捉过程", "变量捕捉过程\变量捕捉过程.csproj", "{C6819B6D-69F1-45F7-AB01-1A8F30B17004}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "m Lambda表达式", "m Lambda表达式", "{6992F5FC-22DA-442B-AB0A-AF9B3C6142DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda表达式的演变过程", "Lambda表达式的演变过程\Lambda表达式的演变过程.csproj", "{E4CDB502-6527-4922-95CF-4A8192838C89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda表达式的使用", "Lambda\Lambda表达式的使用.csproj", "{8DFEF869-A9F3-4B96-994D-BFF6F9C7EDFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda表达式树", "Lambda表达式树\Lambda表达式树.csproj", "{6A2E1661-A5CF-4D70-8ECA-F97E9E169CDC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +171,34 @@ Global
 		{3FB9D117-7032-479D-9B51-BD3610C07747}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FB9D117-7032-479D-9B51-BD3610C07747}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FB9D117-7032-479D-9B51-BD3610C07747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0BE35F4-6726-41EB-AFE3-4A08A970ED67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0BE35F4-6726-41EB-AFE3-4A08A970ED67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0BE35F4-6726-41EB-AFE3-4A08A970ED67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0BE35F4-6726-41EB-AFE3-4A08A970ED67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82DCD651-591C-4055-A1F6-32921BB04140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82DCD651-591C-4055-A1F6-32921BB04140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82DCD651-591C-4055-A1F6-32921BB04140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82DCD651-591C-4055-A1F6-32921BB04140}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05749FA9-6D08-48AD-8300-8690B8627490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05749FA9-6D08-48AD-8300-8690B8627490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05749FA9-6D08-48AD-8300-8690B8627490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05749FA9-6D08-48AD-8300-8690B8627490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6819B6D-69F1-45F7-AB01-1A8F30B17004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6819B6D-69F1-45F7-AB01-1A8F30B17004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6819B6D-69F1-45F7-AB01-1A8F30B17004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6819B6D-69F1-45F7-AB01-1A8F30B17004}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4CDB502-6527-4922-95CF-4A8192838C89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4CDB502-6527-4922-95CF-4A8192838C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4CDB502-6527-4922-95CF-4A8192838C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4CDB502-6527-4922-95CF-4A8192838C89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DFEF869-A9F3-4B96-994D-BFF6F9C7EDFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DFEF869-A9F3-4B96-994D-BFF6F9C7EDFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DFEF869-A9F3-4B96-994D-BFF6F9C7EDFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DFEF869-A9F3-4B96-994D-BFF6F9C7EDFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A2E1661-A5CF-4D70-8ECA-F97E9E169CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A2E1661-A5CF-4D70-8ECA-F97E9E169CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A2E1661-A5CF-4D70-8ECA-F97E9E169CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A2E1661-A5CF-4D70-8ECA-F97E9E169CDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -180,6 +226,13 @@ Global
 		{4C1B1A89-3553-4F93-A500-0CED2AB1A1B6} = {65FCCAF5-4A3F-4676-BB69-56752C5C7E53}
 		{050BFA7A-7DC5-45EA-9F04-EBC424EE7175} = {65FCCAF5-4A3F-4676-BB69-56752C5C7E53}
 		{3FB9D117-7032-479D-9B51-BD3610C07747} = {65FCCAF5-4A3F-4676-BB69-56752C5C7E53}
+		{E0BE35F4-6726-41EB-AFE3-4A08A970ED67} = {206E0AC5-F3BC-4C21-B7D1-0821933A5490}
+		{82DCD651-591C-4055-A1F6-32921BB04140} = {206E0AC5-F3BC-4C21-B7D1-0821933A5490}
+		{05749FA9-6D08-48AD-8300-8690B8627490} = {206E0AC5-F3BC-4C21-B7D1-0821933A5490}
+		{C6819B6D-69F1-45F7-AB01-1A8F30B17004} = {206E0AC5-F3BC-4C21-B7D1-0821933A5490}
+		{E4CDB502-6527-4922-95CF-4A8192838C89} = {6992F5FC-22DA-442B-AB0A-AF9B3C6142DE}
+		{8DFEF869-A9F3-4B96-994D-BFF6F9C7EDFC} = {6992F5FC-22DA-442B-AB0A-AF9B3C6142DE}
+		{6A2E1661-A5CF-4D70-8ECA-F97E9E169CDC} = {6992F5FC-22DA-442B-AB0A-AF9B3C6142DE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D49CE961-D2A8-472B-A2E9-0D47FBB50881}
